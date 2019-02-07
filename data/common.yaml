@@ -1,0 +1,2 @@
+---
+couchbase::config_dir: /opt/couchbase
